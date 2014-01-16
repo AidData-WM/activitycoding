@@ -67,7 +67,7 @@
 			//=================================================
 
 			_.each(results, function(result) {
-				$('#table-body').append('<tr><td><a href="' + result.repoLink + '">' + result.name + '</a></td><td>' + result.accuracy.one + '</td><td>' + result.accuracy.two + '</td><td>' + result.accuracy.three + '</td></tr>');
+				$('#table-body').append('<tr><td><a href="' + result.repoLink + '">' + result.name + '</a></td>' + _.map( _.values(result.accuracy), function(value) { return '<td>' + value + '</td>'; }).join('') + '</tr>');
 			});
 
 		</script>
