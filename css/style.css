@@ -1,0 +1,54 @@
+h3, h4 {
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+p, a {
+	font-family: "Lucida Bright", Georgia, serif;
+}
+
+img {
+	margin: 20px auto 20px auto;
+	display:block;
+}
+
+h4 {
+	margin-left:-10px;
+	margin-top:20px;
+}
+
+.header {
+	background-image: -webkit-gradient(
+		linear,
+		right top,
+		right bottom,
+		color-stop(1, #454070),
+		color-stop(1, #494270)
+	);
+	background-image: -o-linear-gradient(bottom, #454070 100%, #494270 100%);
+	background-image: -moz-linear-gradient(bottom, #454070 100%, #494270 100%);
+	background-image: -webkit-linear-gradient(bottom, #454070 100%, #494270 100%);
+	background-image: -ms-linear-gradient(bottom, #454070 100%, #494270 100%);
+	background-image: linear-gradient(to bottom, #454070 100%, #494270 100%);
+	color:white;
+	margin-left:-30px;
+	padding-left:20px;
+	padding-right:50px;
+	border-radius:5px;
+}
+
+.body {
+	padding-left:15px;
+	padding-right:15px;
+}
+
+table {
+	font-size:14px;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+background-color: #E9EBEE;
+}
+
+{
+	text-align: center;
+}

@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<meta chartset="utf-8"/>
+		<title>AidData Activity Coding Challenge Homepage</title>
+		<link rel="stylesheet" type="text/css" href="css\bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="css\style.css"/>	
+	</head>
+	<body>
+
+		<div class="container">
+			<div class="row-fluid header">
+				<h3>AidData Activity Coding Challenge</h3>
+			</div>
+			<div class="row-fluid">
+				<h4>Overview</h4>
+				<p>Description and link to problem sets here</p>
+			</div>
+			<div class="row-fluid">
+				<h4>Results</h4>
+				<table class="table table-striped">
+					<thead>
+						<tr>
+							<th>Submission Name</th>
+							<th>Problem Set 1</th>
+							<th>Problem Set 2</th>
+							<th>Problem Set 3</th>
+						</tr>
+					</thead>
+					<tbody id="table-body">
+					</tbody>
+				<table>
+		</div>
+
+
+
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/underscore-min.js"></script>
+		<script type="text/javascript">
+
+			//========= add your team's results here =========
+
+			var results = [
+				{
+					name:'Foo',
+					repoLink:'#',
+					authors: [],
+					accuracy: {
+						one:34,
+						two:45,
+						three:12
+					}, 
+					verified:false
+				},
+				{
+					name:'Bar',
+					authors: [],
+					repoLink:'#',
+					accuracy: {
+						one:12,
+						two:78,
+						three:2
+					}, 
+					verified:false
+				}
+			]
+
+			//=================================================
+			console.log($('#table-body'));
+
+			_.each(results, function(result) {
+				$('#table-body').append('<tr><td><a href="' + result.repoLink + '">' + result.name + '</a></td><td>' + result.accuracy.one + '</td><td>' + result.accuracy.two + '</td><td>' + result.accuracy.three + '</td></tr>');
+			});
+
+		</script>
+	</body>
