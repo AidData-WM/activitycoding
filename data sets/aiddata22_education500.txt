@@ -1,0 +1,501 @@
+aiddata_id	donor	sector	title	short_description	long_description	aiddata_activity_code	codeRule_characterLength
+21479983	Germany	I.1.b. Basic Education	STABILITY PACT FOR SOUTH EASTERN EUROPE	STABILITY PACT FOR SOUTH EASTERN EUROPE		15205.01 	81
+37337565	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23632250	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21499859	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+34168911	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23017468	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+96975676	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through Government of Djibouti]	11230.03|11240.02|11220.04|11320.04 	274
+27492765	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23589698	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+17356921	Germany	I.1.a. Education, Level Unspecified		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+23087994	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23151715	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+17594521	Norway	I.1.c. Secondary Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+30046568	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23148302	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+21524003	Germany	I.1.a. Education, Level Unspecified	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+22971817	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+17317335	Germany	I.1.c. Secondary Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+96857238	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through American Institutes for Research]	11220.04|11320.04 	284
+9286146	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+12269573	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+27828429	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+22985317	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+36666712	Switzerland	I.1.b. Basic Education	Peaceful Conflict Resolution	PEACEFUL CONFLICT RESOLUTION		15220.01 	59
+31038796	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23592138	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+96980508	United States	I.1.d. Post-Secondary Education	Higher Education	HIGHER EDUCATION	Strengthen institutional capacities of public and private higher education institutions (including research institutes, teacher-training colleges and institutes, universities, community colleges, and the relevant officials, departments, and ministries responsible for higher education) to teach, train, conduct research, and provide community service; to contribute to development; and to promote professional development opportunities, institutional linkages, and exchange programs. [through America	11320.04|11220.04 	535
+21312864	Denmark	I.1.a. Education, Level Unspecified		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+19192154	Germany	I.1.c. Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+14008309	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+50047368	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21374079	France	I.1.c. Secondary Education	FORMATION PROFESSIONNELLE ET ENSEIGNEMENT TECHNIQUE	FORMATION PROFESSIONNELLE ET ENSEIGNEMENT TECHNIQUE		11330.01 	105
+27857007	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+38663051	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+19992466	Spain	I.1.a. Education, Level Unspecified	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+21626606	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+24142423	Germany	I.1.a. Education, Level Unspecified	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+96976168	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through U.S. Government - U.S. Agency for International Development]	11220.04|11320.04|11230.03|11240.02 	311
+17364367	Germany	I.1.b. Basic Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+37297753	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+35186222	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+15343308	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+8270316	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+27880880	Germany	I.1.a. Education, Level Unspecified	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+21319412	Denmark	I.1.d. Post-Secondary Education		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+27897363	Germany	I.1.d. Post-Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+96989811	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through American Institutes for Research]	11320.04|11220.04 	284
+27975742	Germany	I.1.d. Post-Secondary Education	Alumni Programme	ALUMNI PROGRAMME	Alumni Programme	11105.01 	51
+23125918	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+97500069	United States	I.1.d. Post-Secondary Education	Higher Education	HIGHER EDUCATION	Strengthen institutional capacities of public and private higher education institutions (including research institutes, teacher-training colleges and institutes, universities, community colleges, and the relevant officials, departments, and ministries responsible for higher education) to teach, train, conduct research, and provide community service; to contribute to development; and to promote professional development opportunities, institutional linkages, and exchange programs. [through U.S. Go	11420.01|15150.02|16020.05|11182.01|11110.03 	535
+50068854	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+28061901	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+37412590	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+28081029	Germany	I.1.d. Post-Secondary Education	Alumni Programme	ALUMNI PROGRAMME	Alumni Programme	11105.01 	51
+23079686	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23042917	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+21486050	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+23974556	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+23023431	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50005234	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+9297562	Belgium	I.1.a. Education, Level Unspecified		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+22976893	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23115012	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+13502269	Austria	I.1.c. Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21490496	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+19231690	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19258368	Germany	I.1.a. Education, Level Unspecified	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+17353861	Germany	I.1.d. Post-Secondary Education	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+17402811	Germany	I.1.b. Basic Education	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+23025258	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37344349	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23020354	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+35188081	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+37618169	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+27832614	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+23059233	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+37506369	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+13502948	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19873002	Ireland	I.1.b. Basic Education		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+97598999	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through International Rescue Committee]	11240.02|11320.04|11220.04|11230.03 	282
+22975459	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+50047620	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24156140	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+30034471	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23099061	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+26220745	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+50144803	Korea	I.1.a. Education, Level Unspecified	Provision of Equipment	PROVISION OF EQUIPMENT		72010.01 	47
+17621048	Norway	I.1.c. Secondary Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+96994163	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through U.S. Government - U.S. Agency for International Development]	11220.04|11230.03|11240.02|11320.04 	311
+17690115	Norway	I.1.d. Post-Secondary Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+23594828	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+17654276	Norway	I.1.d. Post-Secondary Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+24131110	Germany	I.1.b. Basic Education	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+19241970	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+35162170	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+21590137	Germany	I.1.b. Basic Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+21217736	Belgium	I.1.b. Basic Education	PROVINCES NEERLANDOPHONES	PROVINCES NEERLANDOPHONES		99810.01 	53
+23085696	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+21611699	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+19230562	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23117817	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+27492804	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19216570	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+21474352	Germany	I.1.b. Basic Education	STABILITY PACT FOR SOUTH EASTERN EUROPE	STABILITY PACT FOR SOUTH EASTERN EUROPE		15205.01 	81
+96812758	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through ADPP Angola]	11240.02|11220.04|11320.04|11230.03 	263
+38822512	Australia	I.1.d. Post-Secondary Education	Pacific Executive Program	PACIFIC EXECUTIVE PROGRAM	Scaling Up	11430.05 	63
+23033751	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+26746386	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education	PROJECT SUPPORT	PROJECT SUPPORT		51010.05 	33
+21315128	Denmark	I.1.c. Secondary Education		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+23055915	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+17327138	Germany	I.1.c. Secondary Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+19225461	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+38796285	Australia	I.1.c. Secondary Education	VKS Partnership phase 1	VKS PARTNERSHIP PHASE 1	To pilot a 12 months assistance towards the VKS men and women fieldworkers workshop and the transcription of recorded materials.  The 12 months support will fund 2 x 2 weeks fieldworkers workshop, equipments and personnel for doing the transcription.	22040.01 	299
+23084887	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+9285911	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+19201173	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+34285908	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+21638828	Germany	I.1.a. Education, Level Unspecified	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+21624082	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+21484900	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+37360288	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19847205	Ireland	I.1.b. Basic Education		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+23621719	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+9284195	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+28046783	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+9730149	Australia	I.1.a. Education, Level Unspecified		ENGLISH LANGUAGE TRAINING		11120.04|11120.06 	28
+21628561	Germany	I.1.c. Secondary Education	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+35877894	Germany	I.1.a. Education, Level Unspecified	InWEnt Regional Offices	INWENT REGIONAL OFFICES	InWEnt Auslandsb&uuml;ros 2008 - 2011	92020.01 	86
+37390123	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19533142	Norway	I.1.d. Post-Secondary Education	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	347
+50046474	Spain	I.1.d. Post-Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+96852041	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through U.S. Government - Peace Corps]	11320.04|11220.04|11230.03|11230.01|11240.02 	281
+23002191	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+27513941	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19225098	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+31048767	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+37613744	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+9286608	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+11304359	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+34148434	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+19881414	Ireland	I.1.b. Basic Education		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+21611889	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+23152045	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+12269423	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+31082284	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+50071260	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21628413	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+19486391	Norway	I.1.b. Basic Education	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	347
+23117751	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+24026269	Germany	I.1.b. Basic Education	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+23618779	Austria	I.1.c. Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21633858	Germany	I.1.a. Education, Level Unspecified	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+20030151	Spain	I.1.a. Education, Level Unspecified	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+21306637	Denmark	I.1.c. Secondary Education		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+50050077	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19260702	Germany	I.1.a. Education, Level Unspecified	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+27856792	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+26759843	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education	PROJECT SUPPORT	PROJECT SUPPORT		51010.05 	33
+37388153	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19236304	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19273298	Germany	I.1.c. Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23023632	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+22984764	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50005034	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+22992965	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23086323	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23967501	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+23033451	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+35162553	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+27509439	Austria	I.1.c. Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+17381337	Germany	I.1.c. Secondary Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+26750310	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education	PROJECT SUPPORT	PROJECT SUPPORT		51010.05 	33
+22994479	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23606474	Austria	I.1.c. Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19258604	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+9285085	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.01|16010.05 	29
+19227641	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+31082518	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+34134462	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+27835315	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+19259045	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+21537014	Germany	I.1.c. Secondary Education	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+17652580	Norway	I.1.a. Education, Level Unspecified	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+27977467	Germany	I.1.c. Secondary Education	voc. educ. and Good Governance- Contribution for stabilization of Iraq	VOC. EDUC. AND GOOD GOVERNANCE- CONTRIBUTION FOR STABILIZATION OF IRAQ	Vocational Education and Good Governance- Contribution for the stabilization of Iraq	15140.04|11330.02 	227
+50019391	Germany	I.1.a. Education, Level Unspecified	InWEnt Regional Offices	INWENT REGIONAL OFFICES	InWEnt Auslandsb&uuml;ros 2008 - 2011	92020.01 	86
+19192657	Germany	I.1.c. Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+27910381	Germany	I.1.d. Post-Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+96850219	United States	I.1.d. Post-Secondary Education	Higher Education	HIGHER EDUCATION	Strengthen institutional capacities of public and private higher education institutions (including research institutes, teacher-training colleges and institutes, universities, community colleges, and the relevant officials, departments, and ministries responsible for higher education) to teach, train, conduct research, and provide community service; to contribute to development; and to promote professional development opportunities, institutional linkages, and exchange programs. [through Nordic	11120.06|11182.01|11420.07|11110.03|11420.03|11420.01 	534
+50051001	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50020408	Germany	I.1.c. Secondary Education	preparatory activities for new projects	PREPARATORY ACTIVITIES FOR NEW PROJECTS	Sonderposition Beratung und Vorbereitung	99810.01 	121
+27879554	Germany	I.1.a. Education, Level Unspecified	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+27861281	Germany	I.1.a. Education, Level Unspecified	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+19203382	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23102998	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23049031	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23609664	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23075404	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+12044602	Canada	I.1.a. Education, Level Unspecified	E.C EDUCATION REFORM (ECERP)	EDUCATION REFORM IMPLEMENTATION	TO STRENGTHEN THE CAPACITY OF THE EASTERN CARIBBEAN STATES TO PLAN AND IMPLEMENT EDUCATION REFORM THROUGH SUB-REGIONAL COOPERATION.   1. STRENGTHENED SUB-REGIONAL POLICY/DECISION-MAKING CAPACITY.2. ESTABLISHED SUB-REGIONAL COORDINATING STRUCTURES/SYSTEMS. 3. OECS EDUC. REFORM UNIT(OERU) OPERATING/COORDINATING EFFICIENTLY/EFFECTIVELY.	11110.02|11110.03 	397
+9295120	Belgium	I.1.a. Education, Level Unspecified		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+12269693	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21305083	Denmark	I.1.b. Basic Education		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+17357145	Germany	I.1.c. Secondary Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+17376472	Germany	I.1.a. Education, Level Unspecified	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+23996028	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+23041585	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23151913	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37503107	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+96194439	Japan	I.1.a. Education, Level Unspecified	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+21629626	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+96242872	Japan	I.1.a. Education, Level Unspecified	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+9284755	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+13502119	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+28066162	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+23109049	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+96797964	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through Ministry of Finance, Afghanistan]	11230.03|11220.04|11320.04|11240.02 	284
+23623653	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+37279141	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23089173	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21546894	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+19202451	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+35145076	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+17337234	Germany	I.1.b. Basic Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+23142134	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23620690	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+37325964	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+97107890	Japan	I.1.b. Basic Education	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+23119715	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+19885680	Ireland	I.1.b. Basic Education		EAST TIMOR PROGRAMME		99810.01 	23
+26497459	Australia	I.1.a. Education, Level Unspecified	HA'APAI DEVELOPMENT FUND	HA'APAI DEVELOPMENT FUND	THE HA'APAI DEVELOPMENT FUND (HDF) WAS ESTABLISHED AS AN AUSAID ACTIVITY IN 1988 AND IS DESIGNED TO SUPPORT SMALL PROJECT ACTIVITIES IN THE HA'APAI GROUP OF ISLANDS IN TONGA. THE HDF RESPONDS TO GRASS ROOTS NEEDS AND HAS SUPPORTED THE MORE SPECIFIC REQUIR	15150.04|51010.05 	306
+35169358	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+21486013	Germany	I.1.d. Post-Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+50047394	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24051324	Germany	I.1.a. Education, Level Unspecified	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+19262298	Germany	I.1.c. Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+21159367	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23038426	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+22970590	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+37540223	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+15975564	Norway	I.1.b. Basic Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+19440221	Norway	I.1.b. Basic Education	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	347
+35849642	Germany	I.1.a. Education, Level Unspecified	InWEnt Regional Offices	INWENT REGIONAL OFFICES	InWEnt Auslandsb&uuml;ros 2008 - 2011	92020.01 	86
+27835229	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+19268162	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+50051083	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21599850	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+21622472	Germany	I.1.a. Education, Level Unspecified	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+23131187	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+50050502	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19200997	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+24028350	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+23967747	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+35173081	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23054107	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21633380	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+27833838	Germany	I.1.d. Post-Secondary Education	Alumni Programme	ALUMNI PROGRAMME	Alumni Programme	11105.01 	51
+37307855	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+8849526	Australia	I.1.a. Education, Level Unspecified		ENGLISH LANGUAGE TRAINING		11120.06|11120.04 	28
+23131928	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+18011770	Ireland	I.1.a. Education, Level Unspecified	CONSULTANCY FEES	CONSULTANCY FEES		99810.01 	35
+50000347	WFP	I.1.b. Basic Education	Emergency Operations	EMERGENCY OPERATIONS		72010.01 	43
+20914113	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education		GENERAL		72010.01 	10
+23011223	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+24200432	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+24092806	Germany	I.1.c. Secondary Education	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+17304332	Germany	I.1.a. Education, Level Unspecified	FURTHER SKILLS MEASURES IN THE SCOPE OF THE STABILITY PACT	FURTHER SKILLS MEASURES IN THE SCOPE OF THE STABILITY PACT		99810.01 	119
+50048682	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+9284623	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+37431716	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+12270250	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23109148	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37522794	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23006129	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+37570902	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+37456778	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19214322	Germany	I.1.a. Education, Level Unspecified	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19200173	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+17681602	Norway	I.1.a. Education, Level Unspecified	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+27515880	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+27832442	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+19518584	Norway	I.1.a. Education, Level Unspecified	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	347
+21479752	Germany	I.1.a. Education, Level Unspecified	STABILITY PACT FOR SOUTH EASTERN EUROPE	STABILITY PACT FOR SOUTH EASTERN EUROPE		15205.01 	81
+23153491	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23006735	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+9287431	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+22983784	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50048418	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21608072	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+37497953	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23138949	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50048171	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23015998	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23075803	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37363639	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23011190	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21639616	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+37355075	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24042421	Germany	I.1.b. Basic Education	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+37361103	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23014774	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+28336521	Norway	I.1.a. Education, Level Unspecified	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	72010.01|74010.09 	289
+37429418	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23124420	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+15342198	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19205677	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19207547	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+97928576	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through U.S. Government - U.S. Agency for International Development]	11220.04|11230.03|11320.04|11240.02 	311
+27506112	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+97637108	Japan	I.1.d. Post-Secondary Education	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+21485552	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+27497462	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+26250704	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+96846418	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through Government of Bangladesh]	11220.01|11220.04|11320.04|11230.03|16010.05|11240.02|11320.01 	276
+21262512	Belgium	I.1.b. Basic Education	PROVINCES NEERLANDOPHONES	PROVINCES NEERLANDOPHONES		99810.01 	53
+23603164	Austria	I.1.c. Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19251029	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+22990070	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+50047808	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+16284768	Ireland	I.1.a. Education, Level Unspecified	NGO LOCAL FUNDING  ETHIOPIA	NGO LOCAL FUNDING  ETHIOPIA		92030.01 	57
+19190585	Germany	I.1.a. Education, Level Unspecified	FURTHER SKILLS MEASURES IN THE SCOPE OF THE STABILITY PACT	FURTHER SKILLS MEASURES IN THE SCOPE OF THE STABILITY PACT		99810.01 	119
+38600315	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23025558	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23123176	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23043490	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21536108	Germany	I.1.a. Education, Level Unspecified	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+37312045	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50118376	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21409159	France	I.1.d. Post-Secondary Education	FORMATION PROFESSIONNELLE ET ENSEIGNEMENT TECHNIQUE	FORMATION PROFESSIONNELLE ET ENSEIGNEMENT TECHNIQUE		11330.01 	105
+12269483	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21493326	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+9288223	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.01|16010.05 	29
+35182695	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+37626465	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21642386	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+23143314	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23056314	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+26324592	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+17371874	Germany	I.1.b. Basic Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+16277422	Ireland	I.1.d. Post-Secondary Education	FELLOWSHIPS	FELLOWSHIPS		11420.06 	25
+23025225	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+20961146	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education		GENERAL		72010.01 	10
+21608035	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+19205209	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+97463492	United States	I.1.d. Post-Secondary Education	Higher Education	HIGHER EDUCATION	Strengthen institutional capacities of public and private higher education institutions (including research institutes, teacher-training colleges and institutes, universities, community colleges, and the relevant officials, departments, and ministries responsible for higher education) to teach, train, conduct research, and provide community service; to contribute to development; and to promote professional development opportunities, institutional linkages, and exchange programs. [through Governm	11420.04|11420.01|11420.07 	535
+23017402	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50049916	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50003188	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19235826	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+50048316	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+35164019	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23020288	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23131829	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+17325855	Germany	I.1.b. Basic Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+31089062	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23034015	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23068585	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+38790094	Australia	I.1.a. Education, Level Unspecified	Cook Islands Harmonised Program: 2008-2012	COOK ISLANDS HARMONISED PROGRAM: 2008-2012	Allocation of up to A$7.8 million bilateral contribution over 2008-2012 for Cook Islands harmonised program. Allocation covers expenses: AusAID annual HLCs; ARDS to 2010; annual transfer to NZAID re implementation and mgmt fees.	51010.05 	315
+27529901	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+50054593	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21300225	Denmark	I.1.b. Basic Education		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+19872277	Ireland	I.1.b. Basic Education		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+23052775	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23030708	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+17573771	Norway	I.1.b. Basic Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+19242377	Germany	I.1.c. Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+50049987	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+17340901	Germany	I.1.c. Secondary Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+17697850	Norway	I.1.c. Secondary Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+26742191	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education	PROJECT SUPPORT	PROJECT SUPPORT		51010.05 	33
+23620723	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+50118369	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23129203	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50050886	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19478264	Norway	I.1.b. Basic Education	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	347
+13503707	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23038822	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+15343188	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+15343428	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+17621005	Norway	I.1.c. Secondary Education	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+10162212	United Kingdom	I.1.a. Education, Level Unspecified		KIJANGO POLICE COLLEGE	To assist the seminar command of the Kenya Police Force to improve the operational management of the force and to improve the human rights awareness	15130.06|15150.07|11120.06 	173
+37452394	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+14009502	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+30220021	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23125687	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23612748	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23974392	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+35168788	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+24156345	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+23615555	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21302061	Denmark	I.1.b. Basic Education		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+19217221	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+35630121	Germany	I.1.d. Post-Secondary Education	InWEnt Regional Offices	INWENT REGIONAL OFFICES	InWEnt Auslandsb&uuml;ros 2008 - 2011	92020.01 	86
+23066570	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23096634	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+96344452	Japan	I.1.c. Secondary Education	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+35186707	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+96980002	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through Government of Egypt]	11230.03|11320.04|11240.02|11220.04 	271
+37340772	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+9297298	Belgium	I.1.a. Education, Level Unspecified		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+36498091	Portugal	I.1.a. Education, Level Unspecified	Rehabilitation of Schools	REHABILITATION OF SCHOOLS		73010.04|73010.02 	53
+9298420	Belgium	I.1.a. Education, Level Unspecified		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+27843330	Germany	I.1.d. Post-Secondary Education	support to project partners	SUPPORT TO PROJECT PARTNERS	support to project partners	99810.01 	84
+21468813	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+21480097	Germany	I.1.a. Education, Level Unspecified	STABILITY PACT FOR SOUTH EASTERN EUROPE	STABILITY PACT FOR SOUTH EASTERN EUROPE		15205.01 	81
+23061031	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+96852440	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through Government of Benin]	11240.02|11220.04|11230.03|11320.04|11230.01 	271
+23121193	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37433351	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23138982	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+96147547	Japan	I.1.a. Education, Level Unspecified	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+17345132	Germany	I.1.b. Basic Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+17689814	Norway	I.1.b. Basic Education	JUNIOR PROFESSIONAL OFFICER	JUNIOR PROFESSIONAL OFFICER		15105.01 	57
+28315845	Norway	I.1.b. Basic Education	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	72010.01|74010.09 	289
+96942571	United States	I.1.d. Post-Secondary Education	Higher Education	HIGHER EDUCATION	Strengthen institutional capacities of public and private higher education institutions (including research institutes, teacher-training colleges and institutes, universities, community colleges, and the relevant officials, departments, and ministries responsible for higher education) to teach, train, conduct research, and provide community service; to contribute to development; and to promote professional development opportunities, institutional linkages, and exchange programs. [through America	11320.04|11220.04 	535
+8269520	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+37311896	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+17307233	Germany	I.1.a. Education, Level Unspecified	FURTHER SKILLS MEASURES IN THE SCOPE OF THE STABILITY PACT	FURTHER SKILLS MEASURES IN THE SCOPE OF THE STABILITY PACT		99810.01 	119
+22985185	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+50118506	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+37269072	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+12268161	Austria	I.1.b. Basic Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23046380	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21480970	Germany	I.1.d. Post-Secondary Education	STABILITY PACT FOR SOUTH EASTERN EUROPE	STABILITY PACT FOR SOUTH EASTERN EUROPE		15205.01 	81
+23582758	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23068219	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+23064528	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37399766	Spain	I.1.d. Post-Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+35187178	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+96976202	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through U.S. Government - U.S. Agency for International Development]	11230.03|11320.04|11240.02|11220.04 	311
+23097644	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21469226	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+23070085	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+13503218	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+37534751	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19220062	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+21490533	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+17367366	Germany	I.1.a. Education, Level Unspecified	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+98339038	Germany	I.1.c. Secondary Education	preparatory activities for new projects	PREPARATORY ACTIVITIES FOR NEW PROJECTS	preparatory activities for new projects	99810.01 	120
+18903707	Austria	I.1.c. Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23071656	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+13503797	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23214763	Australia	I.1.a. Education, Level Unspecified		SMALL GRANTS SCHEME	THE SAMOA SMALL GRANTS SCHEME (SGS) IS ALLOCATED ANNUALLY. THE ALLOCATION FOR 2004/2005 IS $250,000. THE OBJECTIVE OF THE SGS IS TO SUPPLEMENT EFFORTS AND ACTIVITIES OF LOCAL COMMUNITIES TO HELP THEMSELVES.THE SGS IS DESIGNED TO BE FLEXIBLE AND RAPID MEAN	99810.01 	277
+37466589	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21147387	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+14008099	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+13775852	Norway	I.1.a. Education, Level Unspecified		JUNIOR EXPERTS/ASSOCIATE EXPERTS		99810.01 	35
+23592039	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+17991800	Ireland	I.1.a. Education, Level Unspecified	CAPACITY BUILDING	CAPACITY BUILDING		15110.03 	37
+17991632	Ireland	I.1.a. Education, Level Unspecified	TRAINING	TRAINING		99810.01 	19
+23127508	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+37497994	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+17384970	Germany	I.1.c. Secondary Education		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+21161266	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+22985416	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+14613940	Switzerland	I.1.a. Education, Level Unspecified	PEACEFUL CONFLICT RESOLUTION	PEACEFUL CONFLICT RESOLUTION		15220.01 	59
+23022147	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+9031234	Sweden	I.1.d. Post-Secondary Education	ADMINISTRATIVE SUPPORT	ADMINISTRATIVE SUPPORT		15140.01 	47
+19283743	Germany	I.1.b. Basic Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+50048844	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+13503188	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23133565	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+12269543	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+9283700	Belgium	I.1.a. Education, Level Unspecified		FRAIS SOCIAUX PERSONNEL CT		16010.01|16010.05 	29
+21625052	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+50048247	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50118544	Spain	I.1.b. Basic Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21168348	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21488027	Germany	I.1.c. Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+23016367	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+24113957	Germany	I.1.c. Secondary Education	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+34356913	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23005149	Japan	I.1.a. Education, Level Unspecified		TC AGGREGATED ACTIVITIES		99810.01 	27
+21924693	Norway	I.1.d. Post-Secondary Education	FREDSKORPSET PERSONELL EXCHANGE	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH. PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF. RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	317
+21490459	Germany	I.1.d. Post-Secondary Education	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+21619326	Germany	I.1.a. Education, Level Unspecified	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+35182014	Austria	I.1.d. Post-Secondary Education	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+27862338	Germany	I.1.c. Secondary Education	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+21413860	France	I.1.d. Post-Secondary Education	FORMATION PROFESSIONNELLE ET ENSEIGNEMENT TECHNIQUE	FORMATION PROFESSIONNELLE ET ENSEIGNEMENT TECHNIQUE		11330.01 	105
+96960471	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through Government of Comoros]	11230.03|11220.04|11320.04|11230.01|11240.02 	273
+19215799	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+21526860	Germany	I.1.d. Post-Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+21489061	Germany	I.1.c. Secondary Education	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23946853	Germany	I.1.a. Education, Level Unspecified	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+9290334	Belgium	I.1.a. Education, Level Unspecified		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+96821853	United States	I.1.b. Basic Education	Basic Education	BASIC EDUCATION	Improve early childhood education, primary education, and secondary education, delivered in formal or non-formal settings. It includes literacy, numeracy, and other basic skills programs for youth and adults. [through International Resources Group Ltd.]	11320.04|11230.01|11220.04|11420.04|11240.02|11230.03 	286
+23061501	Japan	I.1.c. Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+35176309	Austria	I.1.a. Education, Level Unspecified	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23074745	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+50048434	Spain	I.1.c. Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19233316	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+37366667	Spain	I.1.d. Post-Secondary Education	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21471145	Germany	I.1.a. Education, Level Unspecified	STABILITY PACT FOR SOUTH EASTERN EUROPE	STABILITY PACT FOR SOUTH EASTERN EUROPE		15205.01 	81
+26755649	United Nations Children s Fund (UNICEF)	I.1.b. Basic Education	PROJECT SUPPORT	PROJECT SUPPORT		51010.05 	33
+21566128	Germany	I.1.c. Secondary Education	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+19850097	Ireland	I.1.b. Basic Education		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+97438410	United States	I.1.d. Post-Secondary Education	Higher Education	HIGHER EDUCATION	Strengthen institutional capacities of public and private higher education institutions (including research institutes, teacher-training colleges and institutes, universities, community colleges, and the relevant officials, departments, and ministries responsible for higher education) to teach, train, conduct research, and provide community service; to contribute to development; and to promote professional development opportunities, institutional linkages, and exchange programs. [through Escuela	11420.02|11420.07|11420.01 	535
+50050723	Spain	I.1.a. Education, Level Unspecified	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23073797	Japan	I.1.d. Post-Secondary Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+23143347	Japan	I.1.b. Basic Education		TC AGGREGATED ACTIVITIES		99810.01 	27
+19249437	Germany	I.1.d. Post-Secondary Education	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+27856038	Germany	I.1.d. Post-Secondary Education	Alumni Programme	ALUMNI PROGRAMME	Alumni Programme	11105.01 	51
