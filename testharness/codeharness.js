@@ -6,8 +6,8 @@ var http = require('http');
 var request = require("request");
 
 
-var csvfile = process.argv[2]; 		//get the filename from the command line
-var autocoderURL = process.argv[3]; //the url to the autocoding service, such as: http://localhost:3000/classify.json
+var autocoderURL = process.argv[2]; //the url to the autocoding service, such as: http://localhost:3000/classify.json
+var csvfile = process.argv[3]; 		//get the filename from the command line
 var stoponerror = process.argv[4]; 	//get the stoponerror from the command line
 var totalScore = 0;
 var possTotal = 0;
@@ -39,7 +39,6 @@ csv()
 .on('record', function (data, index)
 {
 
-    console.log(data);
 	title = data.title;
 	short_description = data.short_description;
 	long_description = data.long_description;
