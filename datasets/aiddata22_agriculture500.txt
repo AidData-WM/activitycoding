@@ -1,0 +1,501 @@
+aiddata_id	donor	sector	title	short_description	long_description	aiddata_activity_code	codeRule_characterLength
+23012618	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+96925368	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through University of Florida]	31120.01 	519
+31062127	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23006426	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17393995	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+17309995	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+23106402	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23112317	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19974794	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+18533773	United States	III.1.a. Agriculture	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRODUCTION	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	31182.01 	190
+98310310	Germany	III.1.a. Agriculture	preparatory activities for new projects	PREPARATORY ACTIVITIES FOR NEW PROJECTS	preparatory activities for new projects	99810.01 	120
+22996448	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97259278	Japan	III.1.a. Agriculture	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+9297727	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+20026254	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+23069674	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17333711	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+96847895	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	91010.01|15150.03|43082.01 	557
+23087148	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23071194	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19272564	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+96979901	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through USAID - Mission Accounting and Control System (MACS) Migration Team]	31191.03|31120.01|31191.01 	559
+37539104	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19187776	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23131055	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+22984830	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+50118545	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+17351455	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+21507708	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+96868557	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through U.S. Government - Department of Agriculture]	31191.03|31191.01|31182.01|31120.01 	535
+21483700	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+30040067	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+20004263	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+22989329	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+27504820	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23160683	Australia	III.1.a. Agriculture		AUSTRALIA COMMUNITY ASSISTANCE SCHEME	THE GOAL OF THE AUSTRALIA COMMUNITY ASSISTANCE SCHEME (ACAS) IS TO HELP REDUCE THE HUMAN SUFFERING OF THE PALESTINIAN PEOPLE AND ADDRESS FACTORS CONTRIBUTING TO POVERTY THROUGH BUILDING THE CAPACITY OF PALESTINIANCOMMUNITIES TO BUILD SUSTAINABLE LIVELIHOODS. TOTAL FUNDING OF THE SCHEME IS $250,000 IN 2001-2002 AND $365,000 IN 2002-03. FUNDING FOR 2003-04 IS EXPECTED TO BE $300,000. FUTURE FUNDING LEVELS WILL BE DETERMINED IN THE CONTEXT OF THE OVERALL PROGRAM BUDGET ALLOCATION FOR THE PALESTINIAN TERRITORIES AND PROGRAM PRIORITIES. INDIVIDUAL ACTIVITIES WILL HAVE A FUNDING LIMITATION OF $50,000 WITH A MAXIMUM DURATION OF EIGHTEEN MONTHS.	15150.02|51010.05 	685
+37493254	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23076430	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+37343664	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+22995634	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19243146	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23120573	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+98053119	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Fintrac, Inc.]	31110.02|31191.01|31110.01|31150.04 	505
+96976035	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Cooperativa Adepe]	31120.01|31191.01|31191.03 	509
+50052287	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23152681	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23005614	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23054473	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19867967	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+27925675	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+97360054	Japan	III.1.a. Agriculture	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+37483411	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+96846385	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Cornell University]	31191.03|31120.01|31182.01|31191.01 	516
+17395957	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+19225978	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19889021	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+50050591	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+9292215	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+20058994	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+20059970	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+98275572	Germany	III.1.a. Agriculture	preparatory activities for new projects	PREPARATORY ACTIVITIES FOR NEW PROJECTS	preparatory activities for new projects	99810.01 	120
+96812556	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Cooperative League of the United States of America]	31182.01|31130.01|31120.06|31120.01|31191.01 	548
+21605752	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+21558093	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+23018095	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23005581	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+27944259	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+97436464	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Haiti]	31191.03|31120.01|31191.01 	511
+96989845	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Ethiopia]	31191.03|31120.01|31191.01 	520
+96881170	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	GFSI: Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through University of California, Davis]	31110.02|31110.01|31191.01|11420.01 	384
+97784552	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+50118859	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21504276	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+24076480	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+19842424	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+23012684	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+9293602	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+24083225	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+27861557	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+96381725	Japan	III.1.a. Agriculture	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+17997476	Ireland	III.1.a. Agriculture	NGO LOCAL FUNDING  ETHIOPIA	NGO LOCAL FUNDING  ETHIOPIA		92030.01 	57
+12268401	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+97463167	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through World Bank Group]	31120.01|31191.03|31182.01|31191.01 	514
+9292414	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+17322718	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+30253939	Australia	III.1.a. Agriculture	Nias Reconstruction Fund	NIAS RECONSTRUCTION FUND	The Nias Reconstruction Fund is a flexible program established to rebuild damaged community infrastructure and strengthen the capacity of local leaders to plan and implement development, in the wake of the December 2004 tsunami and the March 28, 2005 Nias	73010.02|73010.01|73010.04 	306
+95786367	Norway	III.1.a. Agriculture	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	74010.09|72010.01 	289
+24076433	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+23103889	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+35193827	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+23134528	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+22978029	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23123808	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+30136221	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+96900066	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|43082.01|91010.01 	557
+97870632	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+6734008	Netherlands	III.1.a. Agriculture		WHEAT		72040.01 	8
+96850795	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Citizens Network for Foreign Affairs]	31120.01|31191.03|31191.01 	528
+96882699	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	GFSI: Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through International Food Policy Research Institute]	31110.02 	397
+22988162	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23031485	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+37556914	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50047293	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19266691	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23113947	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23111162	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+37300911	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+37545512	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+96882597	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through Weidemann Associates Inc.]	31110.02 	372
+19834427	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+19824539	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+34309175	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+27962106	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+21155920	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+50047537	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+98306006	Germany	III.1.a. Agriculture	preparatory activities for new projects	PREPARATORY ACTIVITIES FOR NEW PROJECTS	preparatory activities for new projects	99810.01 	120
+97503410	Japan	III.1.a. Agriculture	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+37535472	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+8864068	European Communities (EC)	III.1.a. Agriculture	AT AU MIN. DE L'AGRICULTURE ET DE L'	AT AU MIN. DE L'AGRICULTURE ET DE L'		31110.04 	75
+19223246	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+37344107	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+20001990	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+23079928	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+24144082	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+21569807	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+50050519	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+18528328	United States	III.1.a. Agriculture	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRODUCTION	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	31182.01 	190
+24202954	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+50005180	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+22992356	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97783956	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+24010935	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+23141501	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97025332	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	GFSI: Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through Government of Guatemala]	31191.01 	376
+20031814	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+50047089	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21557317	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+21632527	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23032488	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+50053419	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+8267713	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21503868	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23026746	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23144568	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19238151	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+20043827	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+35150356	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+17390123	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+18887734	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME		99810.01 	117
+19204108	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+21533317	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23093631	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23001564	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+50051824	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21161033	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23081925	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17012223	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF NGO CO-FINANCING FRAMEWORK AGREEMENT	GEOGRAPHICAL/SECTORAL ALLOCATION OF NGO CO-FINANCING FRAMEWORK AGREEMENT		92010.01 	147
+19853191	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+17323558	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+23081892	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+20019693	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+23026779	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+26295023	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+95764692	Norway	III.1.a. Agriculture	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	74010.09|72010.01 	289
+23591199	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+24089141	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+23141468	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+21476582	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+18880615	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF NGO CO-FINANCING FRAMEWORK AGREEMENT	GEOGRAPHICAL/SECTORAL ALLOCATION OF NGO CO-FINANCING FRAMEWORK AGREEMENT		92010.01 	147
+9460892	Norway	III.1.a. Agriculture		JUNIOR EXPERTS/ ASS. EXPERTS		99810.01 	31
+23063964	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+20063598	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+37512619	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50046457	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23060362	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+21302378	Denmark	III.1.a. Agriculture		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+21587330	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+96847928	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|43082.01|91010.01 	557
+17709241	Norway	III.1.a. Agriculture	WORK PROGRAMME 2002	WORK PROGRAMME 2002		16020.01 	41
+95723293	Norway	III.1.a. Agriculture	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	74010.09|72010.01 	289
+50048073	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+13499959	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+19275756	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+24084258	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+16292609	Ireland	III.1.a. Agriculture	ADMINISTRATION	ADMINISTRATION		15140.04 	31
+23015599	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+21621236	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+23000697	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97784082	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+17318342	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+97437979	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Honduras]	31191.01 	514
+21632305	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+31034457	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+17348884	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+30234182	Australia	III.1.a. Agriculture	Reconstruction Assistance Facility: Iraq	RECONSTRUCTION ASSISTANCE FACILITY: IRAQ	RAFI was established in 2003 in order to provide a flexible and responsive mechanism for providing short-term, timely and strategic advice as required by AusAID. In addition, RAFI was intended to deliver a high quality technical advisory program to key Ir	73010.01 	338
+26369895	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+37340813	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23107425	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23018029	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23099688	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23126518	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+18527200	United States	III.1.a. Agriculture	PUBLIC-PRIVATE ALLIANCE BUILDING	PUBLIC-PRIVATE ALLIANCE BUILDING	PUBLIC-PRIVATE ALLIANCE BUILDING	25010.07 	99
+9294229	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+22975789	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23606166	Austria	III.1.a. Agriculture	NGO-VOLUNTEERS: FARM DEVELOPMENT PROJECT  KITAGWENDA	NGO-VOLUNTEERS: FARM DEVELOPMENT PROJECT  KITAGWENDA	PERSONALEINSATZ: LANDWIRTSCHAFTSPROJEKT KITAGWENDA	31120.03|92030.01 	157
+95773825	Norway	III.1.a. Agriculture	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	72010.01|74010.09 	289
+97672159	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|91010.01|43082.01 	557
+23152609	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+21627513	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+37364329	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24082990	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+96936438	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|91010.01|43082.01 	557
+8290759	France	III.1.a. Agriculture		SORGHUM		31120.06 	10
+13500889	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+20017008	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+19220128	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+22997357	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+37508866	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+17998364	Ireland	III.1.a. Agriculture	NGO LOCAL FUNDING  ETHIOPIA	NGO LOCAL FUNDING  ETHIOPIA		92030.01 	57
+21546356	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23073253	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+24142052	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+23022708	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19212082	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+7136176	Japan	III.1.a. Agriculture		FLOOD CONTROL		74010.01 	16
+24019330	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+17018943	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME		99810.01 	117
+6625706	Canada	III.1.a. Agriculture		SESAME		31120.07 	9
+22999437	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97586355	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through World Bank Group]	31191.01|31182.01|31191.03|31120.01 	514
+23092411	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+30043514	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+21872251	Norway	III.1.a. Agriculture	FREDSKORPSET PERSONELL EXCHANGE	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH. PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF. RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	317
+97669392	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	91010.01|15150.03|43082.01 	557
+96978374	United States	III.1.a. Agriculture	Alternative Development and Alternative Livelihoods	ALTERNATIVE DEVELOPMENT AND ALTERNATIVE LIVELIHOODS	Encourage the adoption of alternative livelihoods by providing technical, legal, and policy assistance as required; procuring vehicles, fuel and related equipment/materials; training professional, technical and support personnel; providing security experts and personnel; supporting promoters to form and work with groups that are eradicating drug crops; carrying out scientific studies and market research; developing the private sector, entrepreneurs or small enterprises; and providing support to	21020.02|43010.01|43082.01|15210.01|16010.09|25010.08|15130.05|11430.01|24010.04|15130.06 	604
+18894777	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME		99810.01 	117
+96860170	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Consultative Group on International Agricultural Research]	31182.01|31191.03|31120.06|31191.01|31120.01 	555
+35158470	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+96824388	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through International Resources Group Ltd.]	31182.01|31191.03|31120.06|31191.01|31120.01 	532
+35159232	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient country	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT COUNTRY	Semiaggregierte Daten je Empf&auml;ngerland und DAC5-Sektor f&uuml;r Kleincommitments	99810.01 	220
+96976068	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Cooperativa Mamoncito]	31191.01|31120.01|31191.03 	513
+17334517	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+50049725	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+15971300	Norway	III.1.a. Agriculture	JUNIOR PROFESSIONAL OFFICER	JUNIOR PROFESSIONAL OFFICER		15105.01 	57
+17351942	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+37345469	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+17356365	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+23126551	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19873929	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+23081859	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97024847	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+96988700	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+96882398	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through Tufts University]	31110.02 	363
+34360343	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+19232856	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+97442818	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23083222	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23000796	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97827754	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through U.S. Government - U.S. Agency for International Development]	31120.01 	551
+23128399	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+22993661	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+37376689	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19206230	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+19979939	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+21866090	Norway	III.1.a. Agriculture	FREDSKORPSET PERSONELL EXCHANGE	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH. PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF. RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	317
+21515695	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+19231302	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19204592	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+20001622	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+97669226	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23112251	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19978674	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+97025298	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through Government of Guatemala]	31120.05|41010.02|31110.02|31110.01|31150.04 	370
+11304749	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+97024476	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Guatemala]	31191.01|31191.03|31120.01 	515
+23120540	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19933488	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+98056585	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23020948	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97672126	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	91010.01|15150.03|43082.01 	557
+97020386	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Ghana]	31120.01|31191.01|31191.03 	511
+19233896	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+24108954	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+50001953	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19978720	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+22989296	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17331937	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+8295656	Italy	III.1.a. Agriculture		RICE		72040.01 	7
+20082744	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+18536260	United States	III.1.a. Agriculture	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRODUCTION	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	31182.01 	190
+19198811	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23034945	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19217866	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+96922226	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Chemonics International Inc.]	31120.01|31191.01|31191.03 	520
+23980341	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+19260968	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23142563	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17353726	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+14838268	Ireland	III.1.a. Agriculture	RESEARCH	RESEARCH		43082.01 	19
+23112284	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+24019377	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+17327788	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+19993114	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+19232010	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23212548	Australia	III.1.a. Agriculture		HA'APAI DEVELOPMENT FUND	THE HA'APAI DEVELOPMENT FUND (HDF) WAS ESTABLISHED AS AN AUSAID ACTIVITY IN 1988 AND IS DESIGNED TO SUPPORT SMALL PROJECT ACTIVITIES IN THE HA'APAI GROUP OF ISLANDS IN TONGA. THE HDF RESPONDS TO GRASS ROOTS NEEDS AND HAS SUPPORTED THE MORE SPECIFIC REQUIR	16050.01|15150.04 	282
+19849492	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+21629852	Germany	III.1.a. Agriculture	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+19886327	Ireland	III.1.a. Agriculture		EAST TIMOR PROGRAMME		99810.01 	23
+50048441	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+10974720	Switzerland	III.1.a. Agriculture	GLOBAL CREDIT LAND REFORM	GLOBAL CREDIT LAND REFORM		31110.05 	53
+20121871	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+96866274	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+28029603	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+37594020	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21510421	Germany	III.1.a. Agriculture	FEDERAL STATES CONTRIBUTIONS	FEDERAL STATES CONTRIBUTIONS		99810.01 	59
+21568739	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23954180	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+24113277	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+21606204	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+9289575	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+95671155	Norway	III.1.a. Agriculture	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	72010.01|74010.09 	289
+24022313	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+96852910	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through National Cooperative Business Association]	31191.03|31120.06|31120.01|31191.01|41010.02|31182.01 	533
+97025783	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|43082.01|91010.01 	557
+37092675	Ireland	III.1.a. Agriculture	IMRS - Support to NGOs - Irish - IMRS - GENERAL - Personnel Support	SUPPORT TO NGOS - IRISH - IMRS	Irish missionaries continue to carry out development work in some 90 countries.  The role and work of missionaries continues to have a strong resonance with the Irish people and enjoys considerable support.  Irish Aid is strongly supportive of this valuab	92020.01 	355
+23152783	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97828041	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Development Alternatives Inc.]	31191.03|31191.01|31120.01 	521
+24116209	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+19275725	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+19878600	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+19866716	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+17363226	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+19882621	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+19885199	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+18533808	United States	III.1.a. Agriculture	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRODUCTION	SCIENCE AND TECHNOLOGY DEVELOPED TO IMPROVE AGRICULTURAL PRO	31182.01 	190
+22989227	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+21306425	Denmark	III.1.a. Agriculture		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+9295582	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+13501999	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+14007105	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+37276639	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+97436828	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Haiti]	31191.01|31120.01|31191.03 	511
+97814808	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+17343249	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+7493000	United States	III.1.a. Agriculture		EMERGENCY LOCUST CONTROL		74010.01 	27
+24487420	Norway	III.1.a. Agriculture	FREDSKORPSET PERSONNEL EXCHANGE	FREDSKORPSET PERSONNEL EXCHANGE	FEASIBILITY STUDY ON ESTABLISHING EXCHANGE OF PERSONNEL FOR FREDSKORPSET EXCHANGE PROGRAMME. THE RESULTS OF THE FEASIBILITY STUDY WILL CONSTITUTE PARTS OF THE BASIS FOR ASSESSING AN APPLICATION FOR A COLLABORATION AGREEMENT.	74010.09|72010.01 	289
+27997891	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+97783659	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+97464053	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through World Bank Group]	31120.01|31191.01|31182.01|31191.03 	514
+22977963	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+18894737	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME	GEOGRAPHICAL/SECTORAL ALLOCATION OF VOLUNTEERS' PROGRAMME		99810.01 	117
+9293800	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+18880420	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+97981286	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+27811753	Germany	III.1.a. Agriculture	Integrated Experts	INTEGRATED EXPERTS	Integrated Experts	15110.01 	57
+24173025	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+21321547	Denmark	III.1.a. Agriculture		DANISH TECHNICAL CO-OPERATION		15105.01 	32
+23134423	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17403302	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+17355240	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+19197602	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+23202470	Australia	III.1.a. Agriculture		SMALL GRANTS SCHEME - ANNUAL PROGRAM	THE VANUATU SMALL GRANTS SCHEME (SGS) IS ALLOCATED ANNUALLY. CURRENT ANNUAL ALLOCATION FOR 2004/05 IS $400,000. THE OBJECTIVE OF THE SGS IS TO SUPPLEMENT EFFORTS AND ACTIVITIES OF LOCAL COMMUNITIES TO HELP THEMSELVES.	15150.01 	256
+23139708	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97664951	United States	III.1.a. Agriculture	Alternative Development and Alternative Livelihoods	ALTERNATIVE DEVELOPMENT AND ALTERNATIVE LIVELIHOODS	Encourage the adoption of alternative livelihoods by providing technical, legal, and policy assistance as required; procuring vehicles, fuel and related equipment/materials; training professional, technical and support personnel; providing security experts and personnel; supporting promoters to form and work with groups that are eradicating drug crops; carrying out scientific studies and market research; developing the private sector, entrepreneurs or small enterprises; and providing support to	15130.05|43010.01|15210.01|15130.06|24010.04|25010.08|11430.01|43082.01|16010.09|21020.02 	604
+19232043	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+6768542	Germany	III.1.a. Agriculture		FLOOD CONTROL		74010.01 	16
+97784335	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+24113324	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+21181118	Belgium	III.1.a. Agriculture	COMMUNES NEERLANDOPHONES	COMMUNES NEERLANDOPHONES		99810.01 	51
+50044954	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21544752	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+6897407	France	III.1.a. Agriculture		METEOROLOGY		15140.02 	14
+96812488	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23083288	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+14007559	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+97603240	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23015533	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+9294625	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+17348678	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+23137683	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23058448	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+24059622	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+21622589	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+24059669	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+98045293	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|43082.01|91010.01 	557
+50047614	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+15343608	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+23014576	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23047442	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23077891	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23092480	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97919640	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	43082.01|91010.01|15150.03 	557
+22966840	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+15341951	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+21502921	Germany	III.1.a. Agriculture	INTEGRATED SPECIALIST	INTEGRATED SPECIALIST		99810.01 	45
+95722647	Norway	III.1.a. Agriculture	Fredskorpset personnel exchange	FREDSKORPSET PERSONNEL EXCHANGE	Feasibility study on establishing exchange of personnel for Fredskorpset exchange programme. The results of the feasibility study will constitute parts of the basis for assessing an application for a collaboration agreement.	74010.09|72010.01 	289
+17595037	Norway	III.1.a. Agriculture	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+23152750	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97358367	Japan	III.1.a. Agriculture	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+23596500	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+97530126	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	43082.01|15150.03|91010.01 	557
+20003663	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+96881403	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through MILLENIUM UN PLAZA HOTEL]	31110.02 	371
+50071430	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24045620	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+9287398	Belgium	III.1.a. Agriculture		FRAIS SOCIAUX PERSONNEL CT		16010.05|16010.01 	29
+96860870	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through University of Illinois]	31120.01|31191.01|31191.03|31182.01 	520
+19838848	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+50073836	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24110184	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+20027426	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+50046466	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+24022504	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+7572185	France	III.1.a. Agriculture		SORGHUM		31120.06 	10
+19833662	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+19205958	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23047340	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17997222	Ireland	III.1.a. Agriculture	VEHICLE PURCHASE	VEHICLE PURCHASE		21020.01|21020.02 	35
+22968374	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+18888424	Austria	III.1.a. Agriculture	GEOGRAPHICAL/SECTORAL ALLOCATION OF NGO CO-FINANCING FRAMEWORK AGREEMENT	GEOGRAPHICAL/SECTORAL ALLOCATION OF NGO CO-FINANCING FRAMEWORK AGREEMENT		92010.01 	147
+23136603	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97918530	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23016664	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23106369	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+34168196	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+23009987	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+24219348	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+30016300	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+96881204	United States	III.1.a. Agriculture	Agricultural Enabling Environment	AGRICULTURAL ENABLING ENVIRONMENT	GFSI: Support agricultural policies, laws and regulations, and institutions that: foster adoption of improved technology; promote investment in infrastructure at all levels, and enhance the natural resource base in ways that respond to the needs of men and women producers. [through Michigan State University]	31110.02 	378
+19244945	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+23122150	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+50068913	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+21555969	Germany	III.1.a. Agriculture	DEVELOPMENT AID VOLUNTEER	DEVELOPMENT AID VOLUNTEER		99810.01 	53
+23102514	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+24007743	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+24499042	Norway	III.1.a. Agriculture	FREDSKORPSET PERSONNEL EXCHANGE	FREDSKORPSET PERSONNEL EXCHANGE	FEASIBILITY STUDY ON ESTABLISHING EXCHANGE OF PERSONNEL FOR FREDSKORPSET EXCHANGE PROGRAMME. THE RESULTS OF THE FEASIBILITY STUDY WILL CONSTITUTE PARTS OF THE BASIS FOR ASSESSING AN APPLICATION FOR A COLLABORATION AGREEMENT.	72010.01|74010.09 	289
+24110137	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+98056721	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+23083189	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+37458323	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+9130424	United States	III.1.a. Agriculture		AFRICAN EMERGENCY/LOCUST GRASSHOPPER		72010.01 	39
+98045029	United States	III.1.a. Agriculture	Administration and Oversight	ADMINISTRATION AND OVERSIGHT	GFSI: Supports the following illustrative program-funded costs: salaries of US, FSN, and TCN and other staff such as PSCs, RSSAs, PASAs, CASUs working for the US Government managing, administering, and supporting programs and their program-funded benefits such as housing, travel, transportation, education allowances etc; institutional contractors that provide such staff, rent, IT services, the program-funded share of utilities, staff training costs and the cost of developing and administering tr	91010.01 	559
+19517482	Norway	III.1.a. Agriculture	FREDSKORPSET PERSONELL EXCHANGE	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH	EXCHANGE OF PERSONNEL BETWN PARTNERS IN NORWAY AND IN THE SOUTH PARTICIPANTS WORK IN HOST COUNTRIES TOGETHER WITH THE HOST PARTNERS STAFF RESPONSIBILITY AND SPECIFIC TASKS WILL VARY IN RELATION TO THE OBJECTIVES ESTABL FOR THE PROJECT BY THE PARTNERS	99810.01 	347
+9296407	Belgium	III.1.a. Agriculture		ALLOCATIONS DE VOLONTARIAT CT		99810.01 	32
+17362596	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+23036538	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+19200758	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+18527793	United States	III.1.a. Agriculture	PVC/INCREASE CAPABILITY OF PTNERS TO ACHIEVE PLND OBJECTIVES	INCREASE CAPABILITY OF PTNERS TO ACHIEVE PLND OBJECTIVES	PVC/INCREASE CAPABILITY OF PTNERS TO ACHIEVE PLND OBJECTIVES	99810.01 	179
+19198649	Germany	III.1.a. Agriculture	GOVERNMENT CONTRIBUTIONS VIA NGO	GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01|15105.01 	67
+37499479	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50056081	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+50049492	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+6498883	France	III.1.a. Agriculture		FLOOD CONTROL		74010.01 	16
+19274700	Germany	III.1.a. Agriculture	FED. STATES CONTRIBUTIONS	FED. STATES CONTRIBUTIONS		99810.01 	53
+23013200	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23015566	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+50001488	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19845116	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+23134456	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+26252590	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+37269686	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+19596223	Sweden	III.1.a. Agriculture	ADVISORY SERVICES	ADVISORY SERVICES		15110.01 	37
+23006459	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17386400	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+50050820	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+20085932	Spain	III.1.a. Agriculture	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	VARIOUS COOPERATION FOR DEVELOPMENT PROJECTS	DIVERSOS PROYECTOS DE COOPERACI&Oacute;N PARA EL DESARROLLO	51010.05 	150
+24003193	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+96979935	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	GFSI: Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Government of Egypt]	31191.03|31120.01|31191.01 	517
+50001185	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23101492	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+23729482	Belgium	III.1.a. Agriculture	PROVINCES NEERLANDOPHONES	PROVINCES NEERLANDOPHONES	PROVINCES NEERLANDOPHONES	99810.01 	78
+18051852	Ireland	III.1.a. Agriculture	NGO PROJECT	NGO PROJECT		92005.01 	25
+97495939	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	43082.01|15150.03|91010.01 	557
+96860803	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Winrock International]	31182.01|31191.01|31191.03 	513
+37380278	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+22981106	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+17690158	Norway	III.1.a. Agriculture	PEACE CORPS PERSONELL EXCHANGE	PEACE CORPS PERSONNEL EXCHANGE		15150.01 	63
+17336278	Germany	III.1.a. Agriculture		GOVERNMENT CONTRIBUTIONS VIA NGO		92005.01 	35
+96852943	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through World Council of Credit Unions]	31191.03|31182.01|31191.01 	522
+24205187	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+14007165	Austria	III.1.a. Agriculture	Small-scale commitments aggregated by sector and recipient	SMALL-SCALE COMMITMENTS AGGREGATED BY SECTOR AND RECIPIENT		99810.01 	119
+24197193	Germany	III.1.a. Agriculture	DEVELOPMENT WORKER	DEVELOPMENT EXPERT		99810.01 	39
+19844713	Ireland	III.1.a. Agriculture		AGENCY FOR PERSONAL SERVICE OVERSEAS (APSO)		92020.01 	46
+37036963	Ireland	III.1.a. Agriculture	IMRS - Support to NGOs - Irish - IMRS - GENERAL - Personnel Support	SUPPORT TO NGOS - IRISH - IMRS	Irish missionaries continue to carry out development work in some 90 countries.  The role and work of missionaries continues to have a strong resonance with the Irish people and enjoys considerable support.  Irish Aid is strongly supportive of this valuab	92020.01 	355
+24116127	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+97551543	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	43082.01|91010.01|15150.03 	557
+23999566	Germany	III.1.a. Agriculture	INTEGRIERTE FACHKRAFT	INTEGRATED SPECIALIST		99810.01 	45
+97019504	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	15150.03|43082.01|91010.01 	557
+26265960	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES	99810.01 	51
+19828157	Ireland	III.1.a. Agriculture		SIDAMA AGRICULTURE		31105.01 	21
+22984515	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+22974515	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+96868491	United States	III.1.a. Agriculture	Agricultural Sector Productivity	AGRICULTURAL SECTOR PRODUCTIVITY	Sustain the productivity of the agricultural sector through investments that foster increasing returns to land, labor, and capital. Targeted interventions to male and female producers provide improvements in technology and management practices, expanded access to markets and credit, increased organizational and market efficiency, and restoration and protection of resiliency in production and livelihood systems. [through Global Alliance For Improved Nutrition]	31182.01|31120.01|31191.01|31191.03 	530
+97267623	Japan	III.1.a. Agriculture	TC AGGREGATED ACTIVITIES	TC AGGREGATED ACTIVITIES		99810.01 	51
+22971184	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+50073717	Spain	III.1.a. Agriculture	Aggregated information - municipalities	AGGREGATED INFORMATION - MUNICIPALITIES	Agregado EELL	15110.01 	94
+23022642	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+22982487	Japan	III.1.a. Agriculture		TC AGGREGATED ACTIVITIES		99810.01 	27
+97877288	United States	III.1.a. Agriculture	Program Design and Learning	PROGRAM DESIGN AND LEARNING	GFSI: Develop and conduct needs assessments, baseline studies, targeted evaluations, special studies or other information-gathering efforts specifically for the design, monitoring and evaluation of USG-funded programs. This sub-element may also include developing and disseminating best practices and lessons learned, testing demonstration and/or pilot models, or the preparation of strategic plans and other short-term programming tasks. Note: All such activities that are carried out by partners as	43082.01|15150.03|91010.01 	557
+28025285	Germany	III.1.a. Agriculture	congress participations of InWEnt-alumni	CONGRESS PARTICIPATIONS OF INWENT-ALUMNI	congress participations of InWEnt-alumni	15140.01|15140.03 	123
