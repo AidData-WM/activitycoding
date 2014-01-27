@@ -1,0 +1,16 @@
+{
+  "name": "testharness",
+  "version": "0.0.1",
+  "description": "A test harness for checking the performance of activity coders.",
+  "main": "codeharness.js",
+  "dependencies": {
+    "csv": "latest",
+    "http": "latest",
+    "request": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Stewart & David Rust-Smith",
+  "license": "BSD-2-Clause"
+}
