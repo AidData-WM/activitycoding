@@ -56,7 +56,7 @@ csv()
 
 	var options =
 	{
-    	url: autocoderURL + '?description='+data.sector+'|'+total_desc,
+    	url: autocoderURL + '?description='+data.sector+' | '+total_desc,
     	codes:  codes,
 	};
 
@@ -73,9 +73,10 @@ csv()
         		//console.log(info[y].formatted_number);
         	}
 
-console.log(human_codes);
-console.log('robo_codes');
-console.log(robo_codes);
+            console.log(human_codes);
+            console.log('robo_codes');
+            console.log(robo_codes);
+
         	matched_arr = intersect(human_codes,robo_codes);
         	thisScore = 0;
 
@@ -83,7 +84,10 @@ console.log(robo_codes);
 
         	if (reported_codes > 0)
         	{
-        		thisScore = (matched_arr.length/reported_codes)*human_codes.length;
+                // score: number matched - number extra. but not below 0
+                // thisScore =  matched_arr.length -(robo_codes.length - matched_arr.length);
+
+                 thisScore =(matched_arr.length / (Math.abs (human_codes.length - reported_codes) +1));
         		totalScore += thisScore;
         	}
 
