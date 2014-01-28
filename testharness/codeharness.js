@@ -24,9 +24,11 @@ function intersect(a, b) {
     var results = [];
 
 	for (var i = 0; i < a.length; i++) {
-    	if (b.indexOf(a[i]) !== -1) {
-        	results.push(a[i]);
-    	}
+        for (var j = 0; j < b.length; j++) {
+        	if (b[j].trim()==(a[i].trim())) {
+            	results.push(a[i]);
+        	}
+        }
     }
     return results;
 }
@@ -38,6 +40,9 @@ csv()
 // on each record, populate the map and check the codes
 .on('record', function (data, index)
 {
+
+//console.log(data);
+
 
 	title = data.title;
 	short_description = data.short_description;
@@ -51,7 +56,7 @@ csv()
 
 	var options =
 	{
-    	url: autocoderURL + '?description='+total_desc,
+    	url: autocoderURL + '?description='+data.sector+'|'+total_desc,
     	codes:  codes,
 	};
 
@@ -68,7 +73,9 @@ csv()
         		//console.log(info[y].formatted_number);
         	}
 
-
+console.log(human_codes);
+console.log('robo_codes');
+console.log(robo_codes);
         	matched_arr = intersect(human_codes,robo_codes);
         	thisScore = 0;
 
