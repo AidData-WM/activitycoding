@@ -1,6 +1,6 @@
 // TODO score for superset, subset, and hybrid.
 // TODO alter expected return format to accept json with a property 'codes:[...]'
-
+var MIN_DESC_LENGTH = 0; //in chars.
 var csv = require('csv');
 var http = require('http');
 var request = require("request");
@@ -104,5 +104,7 @@ csv()
     	}
     	//console.log(this.req.res.request.codes);
 	}
-    request(options, callback);
+    if(total_desc.length > MIN_DESC_LENGTH){
+        request(options, callback);
+    }
 });
